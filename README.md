@@ -9,4 +9,4 @@
 ### Исправление
 Обработка конкретного запроса для исправления ошибок.
 
-Основана на алгоритме Виттерби, можно посмотреть [здесь](https://ru.qwertyu.wiki/wiki/Viterbi_Algorithm), и [здесь](https://habr.com/ru/post/180109/) 
+Основана на алгоритме Витерби, можно посмотреть [здесь](https://ru.qwertyu.wiki/wiki/Viterbi_Algorithm), и [здесь](https://habr.com/ru/post/180109/) 
